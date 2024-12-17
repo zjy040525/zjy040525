@@ -1,3 +1,3 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zjy040525&show_icons=true)
+[![mianshi-hnjs](https://github-readme-stats.vercel.app/api/pin/?username=zjy040525&repo=mianshi-hnjs)](https://github.com/zjy040525/mianshi-hnjs)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zjy040525&layout=compact)
+[![mianshi-hnjs-backend](https://github-readme-stats.vercel.app/api/pin/?username=zjy040525&repo=mianshi-hnjs-backend)](https://github.com/zjy040525/mianshi-hnjs-backend)
